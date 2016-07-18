@@ -12,7 +12,7 @@ with open('LICENSE') as f:
 setup(
     name='example',
     version='0.0.1',
-    description='Example Python package for Python-Guide.org',
+    description='Example Python package for park.mail.ru',
     long_description=readme_text,
     author='Alexandr Emelin',
     author_email='emelin@corp.mail.ru',
