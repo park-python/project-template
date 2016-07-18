@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
+import unittest
 
 from .context import example
 
-import unittest
 
 
 class ExampleTestSuite(unittest.TestCase):

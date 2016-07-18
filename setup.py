@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 from setuptools import setup, find_packages
 
 
@@ -20,4 +18,3 @@ setup(
     license=license_text,
     packages=find_packages(exclude=('tests',))
 )
-
