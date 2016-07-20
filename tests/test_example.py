@@ -1,7 +1,6 @@
 import unittest
 
-from .context import example
-
+import example
 
 
 class ExampleTestSuite(unittest.TestCase):
